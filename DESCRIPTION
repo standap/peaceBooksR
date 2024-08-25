@@ -1,11 +1,16 @@
 Package: peaceBooksR
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Peace Books Prepared For the Paris Peace Conference 
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Author: Stanislav Pejša
+Maintainer: The package maintainer <spejsa@purdue.edu>
+Description: This package contains text of the Peace Books prepared by the Historical Section of the Foreign Office and published in 1920. 
+    The package contains the texts of each volumes and and then the files that contain all texts in ine file. 
+    In the dataset peace_books_pages each line of text correspond to to a page, in the dataset peace_books_volumes, each line corresponds to 
+    the content of the whole volume.
+    The copora contains only the body of texts, section titles, footnotes, 
+    tunning headers, tables, indices, and list of references (authorities) 
+    were removed.
+License: CC-BY
 Encoding: UTF-8
 LazyData: true
