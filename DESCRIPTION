@@ -14,3 +14,6 @@ Description: This package contains text of the Peace Books prepared by the Histo
 License: CC-BY
 Encoding: UTF-8
 LazyData: true
+RoxygenNote: 7.3.2
+Depends: 
+    R (>= 2.10)
