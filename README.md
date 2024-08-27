@@ -4,4 +4,4 @@ The package enables text analysis of the individual volumes that are available b
 <!-- ![Example of page from the 'Authorities' section of the Samoa Volume'](./R/img/samoa_authorities.png) -->
 
 ## Instalation
-remotes::install_github("peaceBooksR")
+`remotes::install_github("peaceBooksR")`
