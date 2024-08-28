@@ -5,29 +5,30 @@
 \alias{peace_books_authorities}
 \title{Peace Book Authorities}
 \format{
-A data frame with 34 rows and 16 columns.
+A dataframe with 4830 rows and 10 variables.
 \describe{
-\item{doc_id}{document identifier consists of HathiTrust ID of the band and the volume number}
+\item{doc_id}{document identifier. The identifier consists of HathiTrust ID of the volume and the Peace Book volume number}
 \item{lang}{Language ISO code}
 \item{lang_label}{Human readable language identifier.}
-\item{type}{Type of referenced resource, most often book or document. Map and note were not included in the analysis.}
+\item{type}{Type of referenced resource, most often book or document. Maps and notes were not included in the analysis.}
 \item{author}{Author of the referenced work.}
 \item{title}{Title of the referenced work}
 \item{section}{Section in which the referenced work was listed, general was default.}
 \item{year}{Year when the referenced work was published.}
 \item{volume_title}{Title of volume in which was the work referenced.}
-\item{continent}{Region to which was the referenced work related.}
+\item{continent}{Continent to which was the referenced work related. Pacific islands were counted as pat of the Americas.}
 }
 }
 \source{
-Created by Stanislav Pejša
+Extracted, edited, and transformed into a dataset by Stanislav Pejša.
 }
 \usage{
 peace_books_authorities
 }
 \description{
-This dataset contains list of all referenced works published
-in the Peace Books in 1920.
+This dataset contains list of all referenced works in the Peace Book volumes
+created by the Historical Section of the British Foreign Office
+and published in 1920.
 }
 \examples{
   peace_books_authorities
