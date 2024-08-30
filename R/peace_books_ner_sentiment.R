@@ -1,4 +1,4 @@
-#' Peace Books Corpus POS and Sentiment Tagged Tokens
+#' Peace Books Corpus with POS and Sentiment Tagged Tokens
 #'
 #' This dataset contains annotated tokens from the Peace Book volumes created by
 #' the Historical Section of the British Foreign Office and published in 1920.
@@ -18,7 +18,7 @@
 #' \item{pos}{Coarse-grained part-of-speech from the Universal POS tag set. }
 #' \item{tag}{Fine-grained part-of-speech..}
 #' \item{entity}{Name Entity Recognition tag.}
-#' \item{sentiment}{Sentiment polarity value assigned by the Bing distionary in textdata package.}
+#' \item{sentiment}{Sentiment polarity value assigned by the Bing dictionary in textdata package.}
 #' }
 #' @source Extracted, edited, and transformed into a dataset by Stanislav Pejša.
 #'
