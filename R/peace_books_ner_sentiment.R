@@ -3,12 +3,12 @@
 #' This dataset contains annotated tokens from the Peace Book volumes created by
 #' the Historical Section of the British Foreign Office and published in 1920.
 #' This dataset contains only those tokens that were included in the Bing
-#' sentiment dictionary that as part of the `textdata` package.
+#' sentiment dictionary that is part of the `textdata` package.
 #' The POS and entity tagging was preserved only for the tokens with sentiment
 #' value, tokens without sentiment values were removed. This means that
-#' this dataset cannot be used for analysing NER or POS analysis, because
+#' this dataset cannot be used for analysing NER or POS annotations, because
 #' not all annotated tokens in the corpus are included in this dataset.
-#' The POS and NER annotation were done vt the package `spacyr`.
+#' The POS and NER annotation were done by using the package `spacyr`.
 #'
 #' @format A data frame with 107013 rows and 7 variables.
 #' \describe{
