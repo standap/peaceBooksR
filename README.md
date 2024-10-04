@@ -3,7 +3,7 @@ This package provides access to texts of Peace Books (PB), reference reports pre
 ## Instalation
 `remotes::install_github("standap/peaceBooksR")`
 
-## Processing amd organization of data
+## Processing and organization of data
 The introductory section, some 36 lines that is at the beginning of each digitized volume werre removed. This section contains administrative information about each volume, including its title, authors, and publisher, as well as URL to the source file, information regarding copyright and OCR procedures. Subsequently, running headers and footers, empty lines, page numbers, and other peritextual matter were removed, as well. Word strings split by hyphens at the end of the lines were joned. Finally,  m- and n-dashes, as well as quotation marks were removed.  Most of these removals were executed by a `sed` script and regular expressions, but many typos and extraneous characters were removed manually during visual inspections of the texts. 
 
 The page-based organization of the volumes was preserved in the dataset `peace_books_pages`. Since some methods require the text as uninterrupted flow of text of each volume. The dataset `peace_books_volumes` contains 160 rows  with the full text of each volume in one row.
@@ -41,4 +41,4 @@ Table: List of bound volumes and their titles that constitute the `peaceBooks` c
 | iau.31858044687147 | Congresses: German Opinion                                  |     24 |
 | iau.31858044687154 | Indemnities, Plebiscites, etc. Indemnities In Previous Wars |     25 |
 
-<img title = "An example of the page from the 'Authorities' section of the Samoa volume" alt = "An example of a page from the 'Authorities' section" of the Samoa volume" href="./R/img/samoa_authorities.png" height = "300px" />
+<img title = "An example of the page from the 'Authorities' section of the Samoa volume" alt = "An example of a page from the 'Authorities' section" of the Samoa volume" src="./R/img/samoa_authorities.png" height = "300px" />
