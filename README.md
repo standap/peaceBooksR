@@ -41,4 +41,4 @@ Table: List of bound volumes and their titles that constitute the `peaceBooks` c
 | iau.31858044687147 | Congresses: German Opinion                                  |     24 |
 | iau.31858044687154 | Indemnities, Plebiscites, etc. Indemnities In Previous Wars |     25 |
 
-<img title = "An example of the page from the 'Authorities' section of the Samoa volume" alt = "An example of a page from the 'Authorities' section" of the Samoa volume" src="./R/img/samoa_authorities.png" height = "300px" />
+<img src="./R/img/samoa_authorities.png" title = "An example of the page from the 'Authorities' section of the Samoa volume" height = "300px" />
