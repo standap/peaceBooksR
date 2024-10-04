@@ -4,16 +4,16 @@ This package provides access to texts of Peace Books (PB), reference reports pre
 `remotes::install_github("standap/peaceBooksR")`
 
 ## Processing amd organization of data
-The introductory section, some 36 lines that is at the beginning of each digitized volume werre removed. This section contains administrative information about each volume, including its title, authors, and publisher, as well as URL to the source file, information regarding copyright and OCR procedures. Subsequently, running headers and footers, empty lines, page numbers, and other peritextual matter were removed, as well. Word strings split by hyphens at the end of the lines were joned. Finally,  m- and n-dashes, as well as quotation marks were removed.  Most of these removals were excecuted by a `sed` script and regular expressions, but many typos and extraneous characters were removed manually during visual inspections of the texts. 
+The introductory section, some 36 lines that is at the beginning of each digitized volume werre removed. This section contains administrative information about each volume, including its title, authors, and publisher, as well as URL to the source file, information regarding copyright and OCR procedures. Subsequently, running headers and footers, empty lines, page numbers, and other peritextual matter were removed, as well. Word strings split by hyphens at the end of the lines were joned. Finally,  m- and n-dashes, as well as quotation marks were removed.  Most of these removals were executed by a `sed` script and regular expressions, but many typos and extraneous characters were removed manually during visual inspections of the texts. 
 
-The page-based organization of the volumes was preserved in the dataset `peace_books_pages`. Since some methods require the text as uninterupted flow of text of each volume. The dataset `peace_books_volumes` contains 160 rows  with the full text of each colume in one row.
+The page-based organization of the volumes was preserved in the dataset `peace_books_pages`. Since some methods require the text as uninterrupted flow of text of each volume. The dataset `peace_books_volumes` contains 160 rows  with the full text of each volume in one row.
 
 ## Provenance
 The corpus was created from twenty five bound volumes in the [Hathi Trust Digital Library](https://www.hathitrust.org/).
 
 Table: List of bound volumes and their titles that constitute the `peaceBooks` corpus
 
-| htid               | title                                                       | number |
+| htid               | title                                                       | volume |
 |--------------------|-------------------------------------------------------------|-------:|
 | mdp.39015039471258 | Austria-Hungary Part I                                      |      1 |
 | mdp.39015064326716 | Austria-Hungary Part II                                     |      2 |
