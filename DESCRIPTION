@@ -1,7 +1,7 @@
 Package: peaceBooksR
 Type: Package
 Title: Peace Books Prepared For the Paris Peace Conference 
-Version: 0.1.2
+Version: 0.1.3
 Authors@R: person(given = "Stanislav",
            family = "Pejša",
            role = c("aut", "cre"),
