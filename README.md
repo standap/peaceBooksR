@@ -1,3 +1,4 @@
+This R data package provides access to texts of Peace Books (PB), reference reports prepared by the Historical Section of the British Foreign Office between 1918 and 1919 for use by the British Delegation at the Paris Peace Conference in 1919. The reports were published in 1920 in English. The individual volumes contain reference information regrading geography, culture, population, and economy of almost all countries and territories in the world. The package enables text analysis of the individual volumes. The list of references were removed from the corpus together with appendices, tables, tables of content, and other paratext.
 
 ## Installation
 `remotes::install_github("standap/peaceBooksR")`
@@ -66,4 +67,3 @@ Table: List of bound volumes and their titles that constitute the `peaceBooks` c
 | iau.31858044687139 | International Affairs                                       |     23 |
 | iau.31858044687147 | Congresses: German Opinion                                  |     24 |
 | iau.31858044687154 | Indemnities, Plebiscites, etc. Indemnities In Previous Wars |     25 |
-
