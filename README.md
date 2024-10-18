@@ -4,7 +4,7 @@ This R data package provides access to texts of Peace Books (PB), reference repo
 `remotes::install_github("standap/peaceBooksR")`
 
 ## Run the data
-After installing `peaceBooksR`, just run the name of the dataset. The data frame is ready to be plug=in. The data should be presented in the tidy format.
+After installing `peaceBooksR`, just run the name of the dataset. The data frame is ready to be used as is. The data are already in the tidy format.
 
 ### Examples
 ```   
