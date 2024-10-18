@@ -1,4 +1,3 @@
-This package provides access to texts of Peace Books (PB), reference reports prepared by the Historical Section of the British Foreign Office between 1918 and 1919 for use by the British Delegation at the Paris Peace Conference in 1919. The reports were published in 1920. The individual volumes contain reference information regrading geography, culture, population, and economy of almost all countries and territories in the world. The package enables text analysis of the individual volumes. The list of references were removed from the corpus together with appendices, tables, tables of content, and other paratext.
 
 ## Installation
 `remotes::install_github("standap/peaceBooksR")`
@@ -20,9 +19,9 @@ peace_books_volumes |>
 ```
 
 ```
-# Sources by the date of publication
+# Distribution of languages of resources in the authorities datasets
 peace_books_authorities |> 
-  count(year, sort = TRUE) |> 
+  count(lang_label, sort = TRUE) |> 
   head()
 ```
 
