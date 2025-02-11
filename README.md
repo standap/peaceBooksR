@@ -1,4 +1,13 @@
-This R data package provides access to texts of Peace Books (PB), reference reports prepared by the Historical Section of the British Foreign Office between 1918 and 1919 for use by the British Delegation at the Paris Peace Conference in 1919. The reports were published in 1920 in English. The individual volumes contain reference information regrading geography, culture, population, and economy of almost all countries and territories in the world. The package enables text analysis of the individual volumes. The list of references were removed from the corpus together with appendices, tables, tables of content, and other paratext.
+This R data package provides access to texts of Peace Books (PB), reference reports 
+prepared by the Historical Section of the British Foreign Office between 1918 and 1919
+for use by the British Delegation at the Paris Peace Conference in 1919. 
+The reports were published in 1920 in English. The individual volumes contain 
+reference information regrading geography, culture, population, and economy of 
+almost all countries and territories in the world. 
+
+The package enables text analysis of the individual volumes. The list of references 
+were removed from the corpus together with appendices, tables, 
+tables of content, and other paratext.
 
 ## Installation
 `remotes::install_github("standap/peaceBooksR")`
@@ -26,6 +35,15 @@ peace_books_authorities |>
   head()
 ```
 
+```
+# Number of volumes in the firtst bound volumes of the `Peace books`.
+
+peace_books_ids |> 
+  count(htid, title_vol) |> 
+  head(5)
+```
+
+
 ## Processing and organization of data
 The introductory section, some 36 lines, that is at the beginning of each digitized volume were removed. This section contains administrative information about each volume, including its title, authors, and publisher, as well as URL to the source file, information regarding copyright and OCR procedures. Subsequently, running headers and footers, empty lines, page numbers, and other paratext elements were removed, as well. Word strings split by hyphens at the end of the lines were joined. Finally,  m- and n-dashes, as well as quotation marks were removed.  Most of these removals were executed by a `sed` script and regular expressions, but many typos and extraneous characters were removed manually during visual inspections of the texts. 
 
@@ -36,7 +54,8 @@ Although the lists of references (authorities) were removed from the corpus, the
 <img src="./R/img/samoa_authorities.png" title = "An example of the page from the 'Authorities' section of the Samoa volume" alt = "A page from the Authorities section of the volume on Samoa." height = "700px" />
 
 ## Provenance
-The corpus was created from twenty five bound volumes in the [Hathi Trust Digital Library](https://www.hathitrust.org/). Volumes on the German Opinion in volume 24 are not included in the corpus. 
+The corpus was created from twenty five bound volumes in the [Hathi Trust Digital Library](https://www.hathitrust.org/). 
+Volumes on the German Opinion in volume 24 are not included in the corpus. 
 
 Table: List of bound volumes and their titles that constitute the `peaceBooks` corpus
 
