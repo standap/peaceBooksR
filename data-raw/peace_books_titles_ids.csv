@@ -1,0 +1,169 @@
+htid,title_vol,number_vol,title,number,doc_id_annotated,doc_id,label
+mdp.39015039471258,Austria-Hungary I,I,History of Austria,1,mdp-39015039471258_001.txt,mdp-39015039471258_001_01.txt,austria
+mdp.39015039471258,Austria-Hungary I,I,History of Hungary and Foreign Policy of Austria-Hungary,1,mdp-39015039471258_001.txt,mdp-39015039471258_001_02.txt,hungary
+mdp.39015039471258,Austria-Hungary I,I,Bohemia and Moravia,2,mdp-39015039471258_002.txt,mdp-39015039471258_002.txt,bohemia_moravia
+mdp.39015039471258,Austria-Hungary I,I,Slovakia,3,mdp-39015039471258_003.txt,mdp-39015039471258_003.txt,slovakia
+mdp.39015039471258,Austria-Hungary I,I,Austrian Silesia,4,mdp-39015039471258_004.txt,mdp-39015039471258_004.txt,austrian_silesia
+mdp.39015039471258,Austria-Hungary I,I,Bukovina,5,mdp-39015039471258_005.txt,mdp-39015039471258_005.txt,bukovina
+mdp.39015039471258,Austria-Hungary I,I,Transylvania and The Banat,6,mdp-39015039471258_006.txt,mdp-39015039471258_006.txt,transylvania_banat
+mdp.39015039471258,Austria-Hungary I,I,Hungarian Ruthenia,7,mdp-39015039471258_007.txt,mdp-39015039471258_007.txt,hungarian_ruthenia
+mdp.39015064326716,Austria-Hungary II,II,"Croatia-Slavonia, Fiume",8,mdp-39015064326716_008.txt,mdp-39015064326716_008.txt,croatia_slavonla_fiume
+mdp.39015064326716,Austria-Hungary II,II,"Carniola, Carinthia, Styria",9,mdp-39015064326716_009.txt,mdp-39015064326716_009.txt,carniola_carinthia_styria
+mdp.39015064326716,Austria-Hungary II,II,"Austrian Littoral, Trieste",10,mdp-39015064326716_010.txt,mdp-39015064326716_010.txt,austrian_littoral
+mdp.39015064326716,Austria-Hungary II,II,Dalmatia,11,mdp-39015064326716_011.txt,mdp-39015064326716_011.txt,dalmatia
+mdp.39015064326716,Austria-Hungary II,II,Bosnia and Herzegovina,12,mdp-39015064326716_012.txt,mdp-39015064326716_012.txt,bosnia_herzegovina
+mdp.39015064326716,Austria-Hungary II,II,The Slovenes,13,mdp-39015064326716_013.txt,mdp-39015064326716_013.txt,slovenes
+mdp.39015064326716,Austria-Hungary II,II,The Jugo-Slav Movement,14,mdp-39015064326716_014.txt,mdp-39015064326716_014.txt,jugoslav_movement
+mdp.39015010785791,Balkan States I,III,The Eastern Question,15,mdp-39015010785791_015.txt,mdp-39015010785791_015.txt,eastern_question
+mdp.39015010785791,Balkan States I,III,Turkey in Europe,16,mdp-39015010785791_016.txt,mdp-39015010785791_016.txt,turkey_in_europe
+mdp.39015010785791,Balkan States I,III,Albania,17,mdp-39015010785791_017.txt,mdp-39015010785791_017.txt,albania
+mdp.39015010785791,Balkan States I,III,Greece with Cyclades and Northern Sporades,18,mdp-39015010785791_018.txt,mdp-39015010785791_018.txt,greece_cyclades_sporades
+mdp.39015064326732,The Balkan States II,IV,Montenegro,19,mdp-39015064326732_019.txt,mdp-39015064326732_019.txt,montenegro
+mdp.39015064326732,The Balkan States II,IV,Serbia,20,mdp-39015064326732_020.txt,mdp-39015064326732_020.txt,serbia
+mdp.39015064326732,The Balkan States II,IV,Macedonia,21,mdp-39015064326732_021.txt,mdp-39015064326732_021.txt,macedonia
+mdp.39015064326732,The Balkan States II,IV,Bulgaria,22,mdp-39015064326732_022.txt,mdp-39015064326732_022.txt,bulgaria
+mdp.39015064326732,The Balkan States II,IV,Rumania,23,mdp-39015064326732_023.txt,mdp-39015064326732_023.txt,rumania
+mdp.39015064326732,The Balkan States II,IV,(Never Published),24,,,
+mdp.39015064326740,Benelux,V,Netherlands,25,mdp-39015064326740_025.txt,mdp-39015064326740_025.txt,holland
+mdp.39015064326740,Benelux,V,Belgium,26,mdp-39015064326740_026.txt,mdp-39015064326740_026.txt,belgium
+mdp.39015064326740,Benelux,V,Luxemburg and Limburg,27,mdp-39015064326740_027.txt,mdp-39015064326740_027.txt,luxemburg_limburg
+mdp.39015064326740,Benelux,V,Question of The Scheldt,28,mdp-39015064326740_028.txt,mdp-39015064326740_028.txt,scheldt
+mdp.39015064326740,Benelux,V,Neutrality of Belgium,29,mdp-39015064326740_029.txt,mdp-39015064326740_029.txt,neutrality_belgium
+wu.89004522017,"France, Italy, Spain",VI,Alsace-Lorraine,30,wu-89004522017_030.txt,wu-89004522017_030.txt,alsace_lorraine
+wu.89004522017,"France, Italy, Spain",VI,Lorraine and Saar Minefields,31,wu-89004522017_031.txt,wu-89004522017_031.txt,lorraine-saar
+,,,,32,,,
+wu.89004522017,"France, Italy, Spain",VI,Trentino and Alto Adige,33,wu-89004522017_033.txt,wu-89004522017_033.txt,trentino_altoadige
+wu.89004522017,"France, Italy, Spain",VI,Spain since 1815,34,wu-89004522017_034.txt,wu-89004522017_034.txt,spain
+wu.89004522017,"France, Italy, Spain",VI,Schleswig-Holstein,35,wu-89004522017_035.txt,wu-89004522017_035.txt,schloswig_holstein
+wu.89004522017,"France, Italy, Spain",VI,Spitsbergen,36,wu-89004522017_036.txt,wu-89004522017_036.txt,spitsbergen
+mdp.39015011939983,Germany,VII,Bavarian Palatinate,37,mdp-39015011939983_037.txt,mdp-39015011939983_037.txt,bavarian_palatinate
+mdp.39015011939983,Germany,VII,Rhenish Prussia,38,mdp-39015011939983_038.txt,mdp-39015011939983_038.txt,rhenish_prussia
+mdp.39015011939983,Germany,VII,East and West Prussia,39,mdp-39015011939983_039.txt,mdp-39015011939983_039.txt,east_west_prussia
+mdp.39015011939983,Germany,VII,Upper Silesia,40,mdp-39015011939983_040.txt,mdp-39015011939983_040.txt,upper_silesia
+mdp.39015011939983,Germany,VII,Kiel Canal,41,mdp-39015011939983_041.txt,mdp-39015011939983_041_02.txt,kiel_canal
+mdp.39015011939983,Germany,VII,Heligoland,41,mdp-39015011939983_041.txt,mdp-39015011939983_041_01.txt,heligoland
+mdp.39015011939983,Germany,VII,German Colonisation,42,mdp-39015011939983_042.txt,mdp-39015011939983_042.txt,german_colonization
+mdp.39015064326864,"Poland and Finland",VIII,"Poland: History, 1571-1815",43,mdp-39015064326864_043.txt,mdp-39015064326864_043.txt,poland_history
+mdp.39015064326864,"Poland and Finland",VIII,"Russian Poland, Lithuania, and White Russia",44,mdp-39015064326864_044.txt,mdp-39015064326864_044.txt,russian_poland_lithuania_belrus
+mdp.39015064326864,"Poland and Finland",VIII,Prussian Poland,45,mdp-39015064326864_045.txt,mdp-39015064326864_045.txt,prussian_poland
+mdp.39015064326864,"Poland and Finland",VIII,Austrian Poland,46,mdp-39015064326864_046.txt,mdp-39015064326864_046.txt,austrian_poland_galicia
+mdp.39015064326864,"Poland and Finland",VIII,Finland,47,mdp-39015064326864_047.txt,mdp-39015064326864_047.txt,finland
+mdp.39015064326864,"Poland and Finland",VIII,Aaland Islands,48,mdp-39015064326864_048.txt,mdp-39015064326864_048.txt,aland_islands
+,,,,49,,,
+iau.31858044687006,The Russian Empire,IX,"Courland, Livonia, Esthonia",50,iau-31858044687006_050.txt,iau-31858044687006_050.txt,courland
+iau.31858044687006,The Russian Empire,IX,Bessarabia,51,iau-31858044687006_051.txt,iau-31858044687006_051.txt,bessarabia
+iau.31858044687006,The Russian Empire,IX,Ukraine,52,iau-31858044687006_052.txt,iau-31858044687006_052.txt,ukraine
+iau.31858044687006,The Russian Empire,IX,Don and Volga Basins,53,iau-31858044687006_053.txt,iau-31858044687006_053.txt,volga_basin
+iau.31858044687006,The Russian Empire,IX,Caucasia,54,iau-31858044687006_054.txt,iau-31858044687006_054.txt,caucasia
+iau.31858044687006,The Russian Empire,IX,Eastern Siberia,55,iau-31858044687006_055.txt,iau-31858044687006_055.txt,eastern_siberia
+iau.31858044687006,The Russian Empire,IX,Sakhalin,56,iau-31858044687006_056.txt,iau-31858044687006_056.txt,sakhalin
+mdp.39015010785874,Mohammedanism: Turkey In Asia I,X,Mohammedan History,57,mdp-39015010785874_057.txt,mdp-39015010785874_057.txt,islam_history
+mdp.39015010785874,Mohammedanism: Turkey In Asia I,X,Turkey In Asia (General),58,mdp-39015010785874_058.txt,mdp-39015010785874_058.txt,turkey_asia
+mdp.39015010785874,Mohammedanism: Turkey In Asia I,X,Anatolia,59,mdp-39015010785874_059.txt,mdp-39015010785874_059.txt,anatolia
+mdp.39015010785874,Mohammedanism: Turkey In Asia I,X,Syria and Palestine,60,mdp-39015010785874_060.txt,mdp-39015010785874_060.txt,syria_palestine
+mdp.39015010785874,Mohammedanism: Turkey In Asia I,X,Zionism,162,mdp-39015010785874_162.txt,mdp-39015010785874_162.txt,zionism
+iau.31858044687022,Turkey In Asia II,XI,Arabia,61,iau-31858044687022_061.txt,iau-31858044687022_061.txt,arabia
+iau.31858044687022,Turkey In Asia II,XI,Armenia and Kurdistan,62,iau-31858044687022_062.txt,iau-31858044687022_062.txt,armenia_kurdistan
+iau.31858044687022,Turkey In Asia II,XI,Mesopotamia,63,iau-31858044687022_063.txt,iau-31858044687022_063.txt,mesopotamia
+iau.31858044687022,Turkey In Asia II,XI,The Turkish Islands,64,iau-31858044687022_064.txt,iau-31858044687022_064.txt,turkish_islands
+iau.31858044687022,Turkey In Asia II,XI,Cyprus,65,iau-31858044687022_065.txt,iau-31858044687022_065.txt,cyprus
+iau.31858044687022,Turkey In Asia II,XI,The French in the Levant,66,iau-31858044687022_066.txt,iau-31858044687022_066.txt,france_levant
+iau.31858044687030,"China, Japan, Siam",XII,China : Recent History,67,iau-31858044687030_067.txt,iau-31858044687030_067.txt,china
+iau.31858044687030,"China, Japan, Siam",XII,Mongolia,68,iau-31858044687030_068.txt,iau-31858044687030_068.txt,mongolia
+iau.31858044687030,"China, Japan, Siam",XII,Manchuria,69,iau-31858044687030_069.txt,iau-31858044687030_069.txt,manchuria
+iau.31858044687030,"China, Japan, Siam",XII,Tibet,70,iau-31858044687030_070.txt,iau-31858044687030_070.txt,tibet
+iau.31858044687030,"China, Japan, Siam",XII,Kiaochow,71,iau-31858044687030_071.txt,iau-31858044687030_071_01.txt,kiaochow
+iau.31858044687030,"China, Japan, Siam",XII,Weihaiwei,71,iau-31858044687030_071.txt,iau-31858044687030_071_02.txt,weihaiwei
+iau.31858044687030,"China, Japan, Siam",XII,Weihaiwei (In The Volume 71),72,,,
+iau.31858044687030,"China, Japan, Siam",XII,Japan: Recent History,73,iau-31858044687030_073.txt,iau-31858044687030_073.txt,japan
+iau.31858044687030,"China, Japan, Siam",XII,Siam: Recent History,74,iau-31858044687030_074.txt,iau-31858044687030_074.txt,siam
+iau.31858044687048,Persian Gulf: French and Portuguese Possessions,XIII,(Cancelled),75,,,
+iau.31858044687048,Persian Gulf: French and Portuguese Possessions,XIII,Persian Gulf,76,iau-31858044687048_076.txt,iau-31858044687048_076.txt,persian_gulf
+iau.31858044687048,Persian Gulf: French and Portuguese Possessions,XIII,French India,77,iau-31858044687048_077.txt,iau-31858044687048_077.txt,french_possessions_india
+iau.31858044687048,Persian Gulf: French and Portuguese Possessions,XIII,French Indo - China,78,iau-31858044687048_078.txt,iau-31858044687048_078.txt,indochina
+iau.31858044687048,Persian Gulf: French and Portuguese Possessions,XIII,Portuguese India,79,iau-31858044687048_079.txt,iau-31858044687048_079.txt,portuguese_possessions_india
+iau.31858044687048,Persian Gulf: French and Portuguese Possessions,XIII,Portuguese Timor,80,iau-31858044687048_080.txt,iau-31858044687048_080.txt,portuguese_timur
+iau.31858044687048,Persian Gulf: French and Portuguese Possessions,XIII,Macao,81,iau-31858044687048_081.txt,iau-31858044687048_081.txt,macao
+iau.31858044687055,Dutch and British Possessions,XIV,Java and Madura,82,iau-31858044687055_082.txt,iau-31858044687055_082.txt,java_madura
+iau.31858044687055,Dutch and British Possessions,XIV,Sumatra,83,iau-31858044687055_083.txt,iau-31858044687055_083.txt,sumatra
+iau.31858044687055,Dutch and British Possessions,XIV,Dutch Borneo,84,iau-31858044687055_084.txt,iau-31858044687055_084.txt,dutch_borneo
+iau.31858044687055,Dutch and British Possessions,XIV,Celebes,85,iau-31858044687055_085.txt,iau-31858044687055_085.txt,celebes
+iau.31858044687055,Dutch and British Possessions,XIV,Dutch Timor and Lesser Sunda Islands,86,iau-31858044687055_086.txt,iau-31858044687055_086.txt,dutch_timor_sunda_islands
+iau.31858044687055,Dutch and British Possessions,XIV,Dutch New Guinea and The Moluccas,87,iau-31858044687055_087.txt,iau-31858044687055_087.txt,dutch_new_guinea_moluccas
+iau.31858044687055,Dutch and British Possessions,XIV,British New Guinea,88,iau-31858044687055_088.txt,iau-31858044687055_088.txt,british_new_guinea
+iau.31858044687063,Partition of Africa: British Possessions (I),XV,The Partition Of Africa,89,iau-31858044687063_089.txt,iau-31858044687063_089.txt,partition_africa
+iau.31858044687063,Partition of Africa: British Possessions (I),XV,British West African ( General ),90,iau-31858044687063_090.txt,iau-31858044687063_090.txt,british_west_africa
+iau.31858044687063,Partition of Africa: British Possessions (I),XV,Gambia,91,iau-31858044687063_091.txt,iau-31858044687063_091.txt,gambia
+iau.31858044687063,Partition of Africa: British Possessions (I),XV,Sierra Leone,92,iau-31858044687063_092.txt,iau-31858044687063_092.txt,sierra_leone
+iau.31858044687063,Partition of Africa: British Possessions (I),XV,Gold Coast,93,iau-31858044687063_093.txt,iau-31858044687063_093.txt,gold_coast
+iau.31858044687063,Partition of Africa: British Possessions (I),XV,Nigeria,94,iau-31858044687063_094.txt,iau-31858044687063_094.txt,nigeria
+iau.31858044687063,Partition of Africa: British Possessions (I),XV,Nyasaland,95,iau-31858044687063_095.txt,iau-31858044687063_095.txt,nyasalana
+iau.31858044687071,"British Possessions, II: The Congo",XVI,"Kenya, Uganda and Zanzibar",96,iau-31858044687071_096.txt,iau-31858044687071_096.txt,british_east_africa_kenya_uganda_zanzibar
+iau.31858044687071,"British Possessions, II: The Congo",XVI,British Somaliland and Sokotra,97,iau-31858044687071_097.txt,iau-31858044687071_097.txt,british_somaliland_sokotra
+iau.31858044687071,"British Possessions, II: The Congo",XVI,Anglo-Egyptian Sudan,98,iau-31858044687071_098.txt,iau-31858044687071_098.txt,anglo_egyptian_sudan
+iau.31858044687071,"British Possessions, II: The Congo",XVI,Belgian Congo,99,iau-31858044687071_099.txt,iau-31858044687071_099.txt,belgian_congo
+iau.31858044687089,French African Possessions,XVII,French West Africa (Genera),100,iau-31858044687089_100.txt,iau-31858044687089_100.txt,french_africa_general
+iau.31858044687089,French African Possessions,XVII,French Morocco,101,iau-31858044687089_101.txt,iau-31858044687089_101.txt,french_morocco
+iau.31858044687089,French African Possessions,XVII,Senegal,102,iau-31858044687089_102.txt,iau-31858044687089_102.txt,senegal
+iau.31858044687089,French African Possessions,XVII,French Guinea,103,iau-31858044687089_103.txt,iau-31858044687089_103.txt,french_guinea
+iau.31858044687089,French African Possessions,XVII,Ivory Coast,104,iau-31858044687089_104.txt,iau-31858044687089_104.txt,ivory_coast
+iau.31858044687089,French African Possessions,XVII,Dahomey,105,iau-31858044687089_105.txt,iau-31858044687089_105.txt,dahomey
+iau.31858044687089,French African Possessions,XVII,Mauretania,106,iau-31858044687089_106.txt,iau-31858044687089_106.txt,mauretania
+iau.31858044687089,French African Possessions,XVII,Upper Senegal and Niger,107,iau-31858044687089_107.txt,iau-31858044687089_107.txt,upper_senegal_niger
+iau.31858044687089,French African Possessions,XVII,French Equatorial Africa,108,iau-31858044687089_108.txt,iau-31858044687089_108.txt,french_equatorial_africa
+iau.31858044687089,French African Possessions,XVII,French Somaliland,109,iau-31858044687089_109.txt,iau-31858044687089_109.txt,french_somaliland
+iau.31858044687097,German African Possessions (Late),XVIII,Togoland,110,iau-31858044687097_110.txt,iau-31858044687097_110.txt,togoland
+iau.31858044687097,German African Possessions (Late),XVIII,Cameroon,111,iau-31858044687097_111.txt,iau-31858044687097_111.txt,cameroon
+iau.31858044687097,German African Possessions (Late),XVIII,South-West Africa,112,iau-31858044687097_112.txt,iau-31858044687097_112.txt,southwest_africa
+iau.31858044687097,German African Possessions (Late),XVIII,Tanganyika (German East Africa),113,iau-31858044687097_113.txt,iau-31858044687097_113.txt,tanganyika
+iau.31858044687097,German African Possessions (Late),XVIII,German Treatment Of Natives,114,iau-31858044687097_114.txt,iau-31858044687097_114.txt,treatment_natives_german_colonies
+iau.31858044687105,Portuguese Possessions,XIX,The Portuguese Colonial Empire,115,iau-31858044687105_115.txt,iau-31858044687105_115.txt,formation_portuguese_empire
+iau.31858044687105,Portuguese Possessions,XIX,Azores and Madeira,116,iau-31858044687105_116.txt,iau-31858044687105_116.txt,azores_madeira
+iau.31858044687105,Portuguese Possessions,XIX,Cape Verde Islands,117,iau-31858044687105_117.txt,iau-31858044687105_117.txt,cape_verde
+iau.31858044687105,Portuguese Possessions,XIX,Portuguese Guinea,118,iau-31858044687105_118.txt,iau-31858044687105_118.txt,portuguese_guinea
+iau.31858044687105,Portuguese Possessions,XIX,"San Thomé, Principe, and Ajuda",119,iau-31858044687105_119.txt,iau-31858044687105_119.txt,san_thome_principe
+iau.31858044687105,Portuguese Possessions,XIX,Angola with Cabinda,120,iau-31858044687105_120.txt,iau-31858044687105_120.txt,angola_cabinda
+iau.31858044687105,Portuguese Possessions,XIX,Mozambique,121,iau-31858044687105_121.txt,iau-31858044687105_121.txt,mozambique
+iau.31858044871808,"Spanish and Italian Possessions, Independent States",XX,Spanish Morocco,122,iau-31858044871808_122.txt,iau-31858044871808_122.txt,spanish_morooco
+iau.31858044871808,"Spanish and Italian Possessions, Independent States",XX,Canaries,123,iau-31858044871808_123.txt,iau-31858044871808_123.txt,canary_islands
+iau.31858044871808,"Spanish and Italian Possessions, Independent States",XX,Spanish Sahara,124,iau-31858044871808_124.txt,iau-31858044871808_124.txt,spanish_sahara
+iau.31858044871808,"Spanish and Italian Possessions, Independent States",XX,"Spanish Guinea, Annobon, Fernando Po",125,iau-31858044871808_125.txt,iau-31858044871808_125.txt,spanish_guinea
+iau.31858044871808,"Spanish and Italian Possessions, Independent States",XX,Eritrea,126,iau-31858044871808_126.txt,iau-31858044871808_126.txt,eritrea
+iau.31858044871808,"Spanish and Italian Possessions, Independent States",XX,Italian Libya,127,iau-31858044871808_127.txt,iau-31858044871808_127.txt,libya
+iau.31858044871808,"Spanish and Italian Possessions, Independent States",XX,Italian Somaliland,128,iau-31858044871808_128.txt,iau-31858044871808_128.txt,somaliland
+iau.31858044871808,"Spanish and Italian Possessions, Independent States",XX,Abyssinia,129,iau-31858044871808_129.txt,iau-31858044871808_129.txt,abyssinia
+iau.31858044871808,"Spanish and Italian Possessions, Independent States",XX,Liberia,130,iau-31858044871808_130.txt,iau-31858044871808_130.txt,liberia
+iau.31858044687113,"North, Central, and South America: Atlantic Islands",XXI,St. Pierre and Miquelon,131,iau-31858044687113_131.txt,iau-31858044687113_131.txt,saintpierre_miquelon
+iau.31858044687113,"North, Central, and South America: Atlantic Islands",XXI,Greenland,132,iau-31858044687113_132.txt,iau-31858044687113_132.txt,greenland
+iau.31858044687113,"North, Central, and South America: Atlantic Islands",XXI,British Honduras,133,iau-31858044687113_133.txt,iau-31858044687113_133.txt,british_honduras
+iau.31858044687113,"North, Central, and South America: Atlantic Islands",XXI,The Guianas (General),134,iau-31858044687113_134.txt,iau-31858044687113_134.txt,guiana_colonies
+iau.31858044687113,"North, Central, and South America: Atlantic Islands",XXI,British Guiana,135,iau-31858044687113_135.txt,iau-31858044687113_135.txt,british_guiana
+iau.31858044687113,"North, Central, and South America: Atlantic Islands",XXI,Dutch Guiana,136,iau-31858044687113_136.txt,iau-31858044687113_136.txt,dutch_guiana
+iau.31858044687113,"North, Central, and South America: Atlantic Islands",XXI,French Guiana Falkland Islands,137,iau-31858044687113_137.txt,iau-31858044687113_137.txt,french_guiana
+iau.31858044687113,"North, Central, and South America: Atlantic Islands",XXI,Falkland Islands and Kerguelen Island,138,iau-31858044687113_138.txt,iau-31858044687113_138_01.txt,falkland_islands
+iau.31858044687113,"North, Central, and South America: Atlantic Islands",XXI,Kerguelen Island,138,iau-31858044687113_138.txt,iau-31858044687113_138_02.txt,kerguelen
+iau.31858044687121,Pacific Islands,XXII,Discoveries and Acquisitions,139,iau-31858044687121_139.txt,iau-31858044687121_139.txt,discoveries_pacific
+iau.31858044687121,Pacific Islands,XXII,Galapagos Islands,140,iau-31858044687121_140.txt,iau-31858044687121_140.txt,galapagos
+iau.31858044687121,Pacific Islands,XXII,Juan Fernandez Island,143,iau-31858044687121_143.txt,iau-31858044687121_143.txt,juan_fernández
+iau.31858044687121,Pacific Islands,XXII,Malpelo and Cocos Islands,141,iau-31858044687121_141.txt,iau-31858044687121_141_02.txt,malpelo
+iau.31858044687121,Pacific Islands,XXII,Malpelo and Cocos Islands,141,iau-31858044687121_141.txt,iau-31858044687121_141_01.txt,cocos_island
+iau.31858044687121,Pacific Islands,XXII,Easter Islands,142,iau-31858044687121_142.txt,iau-31858044687121_142.txt,easter_island
+iau.31858044687121,Pacific Islands,XXII,British Possessions,144,iau-31858044687121_144.txt,iau-31858044687121_144.txt,british_oceania
+iau.31858044687121,Pacific Islands,XXII,French Possessions,145,iau-31858044687121_145.txt,iau-31858044687121_145.txt,french_oceania
+iau.31858044687121,Pacific Islands,XXII,Former German Possessions,146,iau-31858044687121_146.txt,iau-31858044687121_146.txt,former_german_possessions
+iau.31858044687121,Pacific Islands,XXII,New Hebrides,147,iau-31858044687121_147.txt,iau-31858044687121_147.txt,new_hebrides
+iau.31858044687139,International Affairs,XXIII,Freedom of The Seas ( Historical ),148,iau-31858044687139_148.txt,iau-31858044687139_148.txt,freedom_of_the_seas
+iau.31858044687139,International Affairs,XXIII,International Rivers,149,iau-31858044687139_149.txt,iau-31858044687139_149.txt,international_rivers
+iau.31858044687139,International Affairs,XXIII,International Canals,150,iau-31858044687139_150.txt,iau-31858044687139_150.txt,international_canals
+iau.31858044687139,International Affairs,XXIII,International Congresses and Conferences,151,iau-31858044687139_151.txt,iau-31858044687139_151.txt,international_congresses
+iau.31858044687139,International Affairs,XXIII,"European Coalitions, since 1792",152,iau-31858044687139_152.txt,iau-31858044687139_152.txt,european_coalitions
+iau.31858044687147,Congresses: German Opinion,XXIV,The Congress of Vienna,153,iau-31858044687147_153.txt,iau-31858044687147_153.txt,congress_of_vienna
+iau.31858044687147,Congresses: German Opinion,XXIV,The Congress of Berlin,154,iau-31858044687147_154.txt,iau-31858044687147_154.txt,congress_of_berlin
+iau.31858044687147,Congresses: German Opinion,XXIV,German Opinion To July 1914 I,155,,,
+iau.31858044687147,Congresses: German Opinion,XXIV,German Opinion To July 1914 II,156,,,
+iau.31858044687147,Congresses: German Opinion,XXIV,German Opinion Since July 1914 III,157,,,
+iau.31858044687154,"Indemnities, Plebiscites in Previous Wars",XXV,Subsidies and Loans,158,iau-31858044687154_158.txt,iau-31858044687154_158_01.txt,indemnities
+iau.31858044687154,"Indemnities, Plebiscites in Previous Wars",XXV,Subsidies and Loans,158,iau-31858044687154_158.txt,iau-31858044687154_158_02.txt,subsidies_loans
+iau.31858044687154,"Indemnities, Plebiscites in Previous Wars",XXV,Plebiscite and Referendum,159,iau-31858044687154_159.txt,iau-31858044687154_159.txt,plebiscite_referendum
+iau.31858044687154,"Indemnities, Plebiscites in Previous Wars",XXV,Schemes for Maintaining Peace,160,iau-31858044687154_160.txt,iau-31858044687154_160.txt,schemes_maintaining_peace
+iau.31858044687154,"Indemnities, Plebiscites in Previous Wars",XXV,President Wilsons Policy,161,iau-31858044687154_161.txt,iau-31858044687154_161.txt,wilsons_policy
