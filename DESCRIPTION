@@ -23,7 +23,7 @@ Description: This package contains text of the Peace Books prepared by
     value, as well as thei lemmas, POS tags, and if available with the name 
     entity recognition (NER) value. 
     The corpora contains only the body of texts, section titles, footnotes, 
-    tunning headers, tables, indices, and list of references (authorities) 
+    running headers, tables, indices, and list of references (authorities) 
     were removed.
 License: MIT + file LICENSE
 Encoding: UTF-8
