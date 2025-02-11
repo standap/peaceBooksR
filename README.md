@@ -85,4 +85,4 @@ Table: List of bound volumes and their titles that constitute the `peaceBooks` c
 | iau.31858044687121 | Pacific Islands                                             |     22 |
 | iau.31858044687139 | International Affairs                                       |     23 |
 | iau.31858044687147 | Congresses: German Opinion                                  |     24 |
-| iau.31858044687154 | Indemnities, Plebiscites, etc. Indemnities In Previous Wars |     25 |
+| iau.31858044687154 | Indemnities, Plebiscites, Indemnities In Previous Wars      |     25 |
