@@ -1,13 +1,13 @@
 Package: peaceBooksR
 Type: Package
 Title: Peace Books Prepared For the Paris Peace Conference 
-Version: 0.55
+Version: 0.9
 Authors@R: person(given = "Stanislav",
            family = "Pejša",
            role = c("aut", "cre"),
            email = "spejsa@purdue.edu",
            comment = c(ORCID = "https://orcid.org/0000-0001-5057-262X"))
-Maintainer: The package maintainer <spejsa@purdue.edu>
+Maintainer: The package maintainer <standap@gmail.com>
 Description: Description: This package contains text of the Peace Books prepared by the Historical Section of the British Foreign Office and published in 1920. 
     The package contains the texts of each volumes and and then the files that
     contain all texts in in the file. 
