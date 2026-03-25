@@ -1,14 +1,14 @@
 This R data package provides access to texts of Peace Books (PB), reference reports prepared by the Historical Section of the British Foreign Office between 1918 and 1919 for use by the British Delegation at the Paris Peace Conference in 1919. The reports were published in 1920 in English. The individual volumes contain reference information regarding geography, culture, population, and economy of almost all countries and territories in the world. 
 
-The package enables text analysis of the individual volumes. The list of references were removed from the corpus together with appendices, tables, tables of content, and other peritext.
+The package enables text analysis of the individual volumes. The list of references were removed from the corpus together with appendices, tables, tables of content, and other paratext.
 
-he package contains five datasets covering full text, bibliographic references, sentiment tokens, and administrative metadata.
+The package contains five datasets covering full text, bibliographic references, sentiment tokens, and administrative metadata.
 
 | dataset title | purpose | lines | columns |
 |:--- |:----------------- |:--- |:--- |
 | peace_books_pages | Contains full-text. The page structure of the individual published volumes remains preserved. | 370112 | 6 | 
 | peace_books_volumes | Contains full-text. The texts are available as continuous text. The strucutre was dissolved, headings, section titles were removed. | 160 | 5 | 
-| peace_books_authorities | Contains bibliographisc data of works used for compilation of the Peace books. | 4830 | 10 |
+| peace_books_authorities | Contains bibliographic data of works used for compilation of the Peace books. | 4830 | 10 |
 | peace_books_ner_sentiment | Table that only contains tokens that were assigned a sentiment value <br /> (positive / negative) by the Bing sentiment dictionary. | 107013 | 7 |
 | peace_books_ids | Administrative metadata for each volume that allows for cross-referecne between different versions of the corpus. | 168 | 8 |
 
@@ -58,7 +58,7 @@ peace_books_ids |>
 ## Processing and organization of data
 The introductory section, some 36 lines, that is at the beginning of each digitized volume were removed. This section contains administrative information about each volume, including its title, authors, and publisher, as well as URL to the source file, information regarding copyright and OCR procedures. Subsequently, running headers and footers, empty lines, page numbers, and other paratext elements were removed, as well. Word strings split by hyphens at the end of the lines were joined. Finally,  m- and n-dashes, as well as quotation marks were removed.  Most of these removals were executed by a `sed` script and regular expressions, but many typos and extraneous characters were removed manually during visual inspections of the texts. 
 
-The page-based organization of the volumes with line breaks after each line of text was preserved in the dataset `peace_books_pages`. Since some methods require the text as uninterrupted flow of text of each volume. The dataset `peace_books_volumes` contains 160 rows  with the full text of each volume in one row.
+The page-based organization of the volumes with line breaks after each line of text was preserved in the dataset `peace_books_pages`. Some methods require the text as an uninterrupted flow; the dataset `peace_books_volumes` contains 160 rows with the full text of each volume in one row.
 
 Although the lists of references (authorities) were removed from the corpus, they were transformed into a separate dataset `peace_books_authorities` that is part of this data package, as well.
   

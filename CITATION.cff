@@ -1,0 +1,28 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'peaceBooksR: PeaceBooks archive'
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Stanislav
+    family-names: Pejša
+    email: stanislavpejsa@gmail.com
+    orcid: 'https://orcid.org/0000-0001-5057-262X'
+repository-code: 'https://github.com/standap/peaceBooksR'
+abstract: >-
+  This R data package provides access to texts of Peace
+  Books (PB), reference reports prepared by the Historical
+  Section of the British Foreign Office between 1918 and
+  1919 for use by the British Delegation at the Paris Peace
+  Conference in 1919. The package enables text analysis of
+  the individual volumes.
+keywords:
+  - computational history
+  - text analysis
+license: CC-BY-4.0
+version: '1.0'
+date-released: '2026-03-25'
