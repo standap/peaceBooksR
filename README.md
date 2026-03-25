@@ -1,18 +1,23 @@
-This R data package provides access to texts of Peace Books (PB), reference reports 
-prepared by the Historical Section of the British Foreign Office between 1918 and 1919
-for use by the British Delegation at the Paris Peace Conference in 1919. 
-The reports were published in 1920 in English. The individual volumes contain 
-reference information regrading geography, culture, population, and economy of 
-almost all countries and territories in the world. 
+This R data package provides access to texts of Peace Books (PB), reference reports prepared by the Historical Section of the British Foreign Office between 1918 and 1919 for use by the British Delegation at the Paris Peace Conference in 1919. The reports were published in 1920 in English. The individual volumes contain reference information regarding geography, culture, population, and economy of almost all countries and territories in the world. 
 
-The package enables text analysis of the individual volumes. The list of references 
-were removed from the corpus together with appendices, tables, 
-tables of content, and other paratext.
+The package enables text analysis of the individual volumes. The list of references were removed from the corpus together with appendices, tables, tables of content, and other peritext.
+
+he package contains five datasets covering full text, bibliographic references, sentiment tokens, and administrative metadata.
+
+| dataset title | purpose | lines | columns |
+|:--- |:----------------- |:--- |:--- |
+| peace_books_pages | Contains full-text. The page structure of the individual published volumes remains preserved. | 370112 | 6 | 
+| peace_books_volumes | Contains full-text. The texts are available as continuous text. The strucutre was dissolved, headings, section titles were removed. | 160 | 5 | 
+| peace_books_authorities | Contains bibliographisc data of works used for compilation of the Peace books. | 4830 | 10 |
+| peace_books_ner_sentiment | Table that only contains tokens that were assigned a sentiment value <br /> (positive / negative) by the Bing sentiment dictionary. | 107013 | 7 |
+| peace_books_ids | Administrative metadata for each volume that allows for cross-referecne between different versions of the corpus. | 168 | 8 |
 
 ## Installation
+
 `remotes::install_github("standap/peaceBooksR")`
 
 ## Run the data
+
 After installing `peaceBooksR`, just run the name of the dataset. The data frame is ready to be used as is. The data are already in the tidy format.
 
 ### Examples
@@ -36,7 +41,13 @@ peace_books_authorities |>
 ```
 
 ```
-# Number of volumes in the firtst bound volumes of the `Peace books`.
+# Number of tokens with positive/negative sentiment 
+peace_books_ner_sentiment |> 
+   count(sentiment)
+```
+
+```
+# Number of volumes in the first bound volumes of the `Peace books`.
 
 peace_books_ids |> 
   count(htid, title_vol) |> 
@@ -55,9 +66,10 @@ Although the lists of references (authorities) were removed from the corpus, the
 
 ## Provenance
 The corpus was created from twenty five bound volumes in the [Hathi Trust Digital Library](https://www.hathitrust.org/). 
-Volumes on the German Opinion in volume 24 are not included in the corpus. 
 
-Table: List of bound volumes and their titles that constitute the `peaceBooks` corpus
+The German Opinion section of volume 24 is not included in the corpus. The volume's metadata is included in the table below for completeness.
+
+Table: List of bound volumes and their titles that constitute the `peaceBooks` corpus.
 
 | htid               | title                                                       | volume |
 |--------------------|-------------------------------------------------------------|-------:|
