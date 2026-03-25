@@ -7,10 +7,10 @@ The package contains five datasets covering full text, bibliographic references,
 | dataset title | purpose | lines | columns |
 |:--- |:----------------- |:--- |:--- |
 | peace_books_pages | Contains full-text. The page structure of the individual published volumes remains preserved. | 370112 | 6 | 
-| peace_books_volumes | Contains full-text. The texts are available as continuous text. The strucutre was dissolved, headings, section titles were removed. | 160 | 5 | 
+| peace_books_volumes | Contains full-text. The texts are available as continuous text. The structure was dissolved, headings, section titles were removed. | 160 | 5 | 
 | peace_books_authorities | Contains bibliographic data of works used for compilation of the Peace books. | 4830 | 10 |
 | peace_books_ner_sentiment | Table that only contains tokens that were assigned a sentiment value <br /> (positive / negative) by the Bing sentiment dictionary. | 107013 | 7 |
-| peace_books_ids | Administrative metadata for each volume that allows for cross-referecne between different versions of the corpus. | 168 | 8 |
+| peace_books_ids | Administrative metadata for each volume that allows for cross-reference between different versions of the corpus. | 168 | 8 |
 
 ## Installation
 
@@ -98,3 +98,5 @@ Table: List of bound volumes and their titles that constitute the `peaceBooks` c
 | iau.31858044687139 | International Affairs                                       |     23 |
 | iau.31858044687147 | Congresses: German Opinion                                  |     24 |
 | iau.31858044687154 | Indemnities, Plebiscites, Indemnities In Previous Wars      |     25 |
+
+To cite this package, use the citation information provided in CITATION.cff or click "Cite this repository" in the sidebar.
