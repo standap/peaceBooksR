@@ -1,6 +1,11 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Lifecycle: stable](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://lifecycle.r-lib.org/articles/stages.html)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14853017.svg)](https://doi.org/10.5281/zenodo.14853017)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--5057--262X-green.svg)](https://orcid.org/0000-0001-5057-262X)
+
 This R data package provides access to texts of Peace Books (PB), reference reports prepared by the Historical Section of the British Foreign Office between 1918 and 1919 for use by the British Delegation at the Paris Peace Conference in 1919. The reports were published in 1920 in English. The individual volumes contain reference information regarding geography, culture, population, and economy of almost all countries and territories in the world. 
 
-The package enables text analysis of the individual volumes. The list of references were removed from the corpus together with appendices, tables, tables of content, and other paratext.
+The package enables text analysis of the individual volumes. The list of references was removed from the corpus together with appendices, tables, tables of content, and other paratext.
 
 The package contains five datasets covering full text, bibliographic references, sentiment tokens, and administrative metadata.
 
@@ -99,4 +104,5 @@ Table: List of bound volumes and their titles that constitute the `peaceBooks` c
 | iau.31858044687147 | Congresses: German Opinion                                  |     24 |
 | iau.31858044687154 | Indemnities, Plebiscites, Indemnities In Previous Wars      |     25 |
 
+## How to cite this work
 To cite this package, use the citation information provided in CITATION.cff or click "Cite this repository" in the sidebar.

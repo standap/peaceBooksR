@@ -1,29 +1,13 @@
 Package: peaceBooksR
 Type: Package
-Title: Peace Books Prepared For the Paris Peace Conference 
-Version: 1.0
+Title: Peace Books: Data Archive (1919-1920)  
+Version: 1.0.0
 Authors@R: person(given = "Stanislav",
            family = "Pejša",
            role = c("aut", "cre"),
            email = "stanislavpejsa@gmail.com",
-           comment = c(ORCID = "https://orcid.org/0000-0001-5057-262X"))
-Maintainer: The package maintainer <standap@gmail.com>
-Description: Description: This package contains text of the Peace Books prepared by the Historical Section of the British Foreign Office and published in 1920. 
-    The package contains the texts of each volumes and and then the files that
-    contain all texts in in the file. 
-    In the dataset peace_books_pages each line of text correspond to to a page, 
-    in the dataset peace_books_volumes, each line corresponds to the content of
-    the whole volume.
-    The package also contains dataset peace_books_authorities that contains data 
-    extracted from the list of references from each volume with the key 
-    bibliographic metadata.
-    The dataset peace_books_sentiment contains tokens that were matched against 
-    the `Bing` sentiment dictionary. These tokens are associated with a sentiment
-    value, as well as their lemmas, POS tags, and if available with the name 
-    entity recognition (NER) value. 
-    The corpora contains only the body of texts, section titles, footnotes, 
-    running headers, tables, indices, and list of references (authorities) 
-    were removed.
+           comment = c(ORCID = "0000-0001-5057-262X"))
+Description: This R data package provides access to the Peace Books, reference reports prepared by the Historical Section of the British Foreign Office between 1918 and 1919 for the British Delegation at the Paris Peace Conference. Published in 1920, the volumes cover geography, culture, population, and economy of countries and territories worldwide. The package contains five datasets: full texts at page- and volume-level (peace_books_pages, peace_books_volumes), bibliographic references of sources used in the volumes (peace_books_authorities), sentiment tokens matched against the Bing dictionary with lemmas, POS tags, and NER values (peace_books_ner_sentiment), and administrative metadata for cross-referencing (peace_books_ids). The corpus contains only the body of texts; paratext elements were removed.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Imports: tibble
@@ -31,7 +15,7 @@ LazyData: true
 LazyDataCompression: xz
 RoxygenNote: 7.3.2
 Depends: 
-    R (>= 2.10)
+    R (>= 4.1)
 Suggests: 
     knitr,
     rmarkdown

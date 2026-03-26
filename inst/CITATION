@@ -1,11 +1,11 @@
 bibentry(
   bibtype  = "Manual",
-  title    = "peaceBooksR: PeaceBooks archive",
+  title    = "peaceBooksR: Peace Books data archive (1919-1920)",
   author   =  person("Stanislav", "Pejša", role = c("aut", "cre"),
   email = "stanislavpejsa@gmail.com"),
   # orcid = "https://orcid.org/0000-0001-5057-262X"),
   publisher  = "GitHub",
   year     = 2026,
-  note = "R package version 1.0",
+  note = "R package version 1.0.0",
   url = "https://github.com/standap/peaceBooksR"
 )
